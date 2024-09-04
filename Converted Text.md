@@ -1,9 +1,9 @@
 <!--StartFragment-->
 
-**Pharmacophore Modelling**
+# **Pharmacophore Modelling**
 
 
-# **Introduction**
+## **Introduction**
 
 A pharmacophore is the highest common denominator of a group of molecules exhibiting similar steric and electronic properties, making them recognisable by a specific biological target (Langer & Hoffmann, 2006). Early understanding of this concept was derived from a retrospective analysis of chemical structures of various drugs, the result showed specific molecular structures associated with higher activity called privileged structures because they show activity for more than one receptor. The substitution of these molecular structures with different functional groups showed their specific activity to a particular receptor, thus their application as drugs.
 
@@ -14,7 +14,7 @@ A pharmacophore is the highest common denominator of a group of molecules exhibi
 **Figure 1**: Overview of pharmacophore modelling and its applications. Source: (Muhammed & Akı-yalcın, 2021)
 
 
-# **Pharmacophore Modelling in Drug Discovery**
+## **Pharmacophore Modelling in Drug Discovery**
 
 Modelling of pharmacophores can be classified in two, based on the information available. Ligand-based approach uses structural information of active ligand that binds to a target to build pharmacophores models when target structure is unknown, while structure-based approach uses structural information of target structure directly to build pharmacophore models. Application of pharmacophore modelling encompasses various aspects of drug discovery; virtual screening, target fishing, ligand profiling, docking, and ADMET prediction. Selected applications are further discussed.
 
@@ -23,7 +23,7 @@ In virtual screening, a pharmacophore model (query) is created, one that encodes
 The need for understanding ADMET properties in the early stages of drug development is to reduce the tendency for new drugs to fail due to low ADMET properties. Pharmacophore models are used to identify likely interactions between drugs and metabolizer enzymes by comparing the chemical properties of new drugs with one whose ADMET profile is known (Mohan, 2019). For example, pharmacophore modelling can be used to predict compounds that will not be readily metabolized by liver enzyme CYP450, which can deactivate the drug before it reaches the cancer cells. This is equally applied in determining the optimal absorption, distribution, excretion and toxicity of cancer drugs to ensure their effectiveness.
 
 
-# **Conclusion**
+## **Conclusion**
 
 Pharmacophore modelling is crucial for understanding the molecular interactions necessary to produce a desired biological effect for drug targets and can predict ADMET properties. This knowledge is important in discovering new drug candidates for treating biological disorders.
 
