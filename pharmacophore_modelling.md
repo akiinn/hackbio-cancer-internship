@@ -34,9 +34,7 @@ Langer, T., & Hoffmann, R. D. (Eds.). (2006). _Pharmacophores and Pharmacophore 
 
 Muhammed, M. T., & Akı-yalcın, E. (2021). Pharmacophore modeling in drug discovery: methodology and current status. _Journal of the Turkish Chemical Society Section A: Chemistry_, _8_(3), 749-762. <https://doi.org/10.18596/jotcsa.927426> 
 
-Mohan, C. G. (Ed.). (2019). _Structural bioinformatics: applications in preclinical drug_ 
-
-_discovery process, Volume 27_. Springer.
+Mohan, C. G. (Ed.). (2019). _Structural bioinformatics: applications in preclinical drug discovery process, Volume 27_. Springer.
 
 Qing, X., Yin Lee, X., De Raeymaeker, J., RH Tame, J., YJ Zhang, K., De Maeyer, M., & 
 
